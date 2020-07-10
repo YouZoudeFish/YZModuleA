@@ -19,7 +19,7 @@
 - (YZTestGenerator * _Nonnull (^)(NSString * _Nonnull))checkInFunc {
     return ^(NSString *userName) {
         NSLog(@"%@",userName);
-        
+        NSLog(@"11111111");
         
         return self;
     };
