@@ -15,4 +15,13 @@
         return self;
     };
 }
+
+- (YZTestGenerator * _Nonnull (^)(NSString * _Nonnull))checkInFunc {
+    return ^(NSString *userName) {
+        NSLog(@"%@",userName);
+        
+        
+        return self;
+    };
+}
 @end
