@@ -1,5 +1,5 @@
 PODS:
-  - YZModuleA (1.0.5)
+  - YZModuleA (1.0.7)
 
 DEPENDENCIES:
   - YZModuleA (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YZModuleA: 42bd36ec735117dfa36c7b61cf3c7b13f4d34fef
+  YZModuleA: 1c7fa87e5fd09e29938de45f095324a0c8484413
 
 PODFILE CHECKSUM: 04d13c7d8b13b24028b3b02d763f8bff716db2d0
 
