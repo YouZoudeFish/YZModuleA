@@ -1,0 +1,16 @@
+PODS:
+  - YZModuleA (1.0.0)
+
+DEPENDENCIES:
+  - YZModuleA (from `../`)
+
+EXTERNAL SOURCES:
+  YZModuleA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YZModuleA: aa396dc7352f3a6bea1148840af260f921f7c88a
+
+PODFILE CHECKSUM: 04d13c7d8b13b24028b3b02d763f8bff716db2d0
+
+COCOAPODS: 1.9.3
