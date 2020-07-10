@@ -11,6 +11,7 @@
 #endif
 
 #import "YZTestGenerator.h"
+#import "YZTestViewController.h"
 
 FOUNDATION_EXPORT double YZModuleAVersionNumber;
 FOUNDATION_EXPORT const unsigned char YZModuleAVersionString[];
