@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YZModuleA_Example' do
+  pod 'YZModuleA', :path => '../'
+
+  target 'YZModuleA_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
